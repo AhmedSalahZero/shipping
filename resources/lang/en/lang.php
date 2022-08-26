@@ -198,6 +198,6 @@ return [
     'Enter Your Email'=>'Enter Your Email',
     'Enter Your Password'=>'Enter Your Password',
     'accountant'=>'Accountant',
-
+    'Cairo'=>'Cairo',
 
     ];

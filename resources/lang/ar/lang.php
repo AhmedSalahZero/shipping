@@ -197,5 +197,8 @@ return [
     'Enter Your Email'=>'ادخل البريد الالكتروني الخاص بك',
     'Enter Your Password'=>'ادخل الرقم السري',
     'accountant'=>'محاسب',
+    'Cairo'=>'القاهرة',
+    'cairo'=>'القاهرة',
+
 ];
 
